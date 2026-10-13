@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: CS211 - Fall 2026
 description: Bookmark this to keep an eye on my project updates!
+
+markdown: GFM
+plugins:
+  - jekyll-relative-links
