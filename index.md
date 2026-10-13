@@ -4,30 +4,32 @@ In this activity, you will form a team of 5, set up a shared repository, configu
 
 ---
 
-## Step-by-Step Instructions
+# Step-by-Step Instructions
 
-### Phase 1: Team Setup & Repo Owner Instructions
+## Phase 1: Team Setup & Repo Owner Instructions
 
-1. **Form a Team:** Group up with 5 students sitting near you.
+1. **Form a Team:** Group up with 5 students sitting near you. Name your team.
 2. **Assign a Team Lead (Repo Owner):** One team member creates the group repository.
 3. **Repo Owner Actions:**
 * Go to [GitHub.com](https://github.com) and click **New Repository**.
-* Name the repository `cs-team-profile` (or similar) and set it to **Public**.
+* Name the repository `cs211-your-team-name` (or similar) and set it to **Public**.
 * Check **Add a README file** and click **Create repository**.
-* Go to **Settings** > **Collaborators** > **Add people**, and invite the other 4 team members using their GitHub usernames.
-* Go to **Settings** > **Pages**:
+
+- Go to **Settings** > **Collaborators** > **Add people**, and invite the other 4 team members using their GitHub usernames.
+ 
+4. **Team Members:** Check your email or GitHub notifications and accept the repository collaboration invite.
+
+5. **Repo Owner Actions:**
+
+Go to **Settings** > **Pages**:
 * Under **Source**, select **Deploy from a branch**.
 * Under **Branch**, select `main` and `/ (root)`, then click **Save**.
-* Copy the published page URL once generated (e.g., `https://<owner-username>.github.io/cs-team-profile/`).
+* Copy the published page URL once generated (e.g., `https://<owner-username>.github.io/cs211-your-team-name/`).
 
-
-
-
-4. **Team Members:** Check your email or GitHub notifications and accept the repository collaboration invite.
 
 ---
 
-### Phase 2: Add Your Profile (Choose Option A or B)
+## Phase 2: Add Your Profile (Choose Option A or B)
 
 ---
 
@@ -72,7 +74,7 @@ In this activity, you will form a team of 5, set up a shared repository, configu
 
 ---
 
-## Option B: Using the Command Line (Terminal / Git Bash)
+### Option B: Using the Command Line (Terminal / Git Bash)
 
 1. **Clone the Repo:**
 ```bash
@@ -128,7 +130,7 @@ git push origin main
 
 ---
 
-### Phase 3: Link Profiles & Verify
+## Phase 3: Link Profiles & Verify
 
 1. **Update `README.md` (Team Lead or Any Member):**
 * Edit `README.md` to list links to each member's Markdown file:
@@ -152,7 +154,7 @@ git push origin main
 
 ---
 
-#### Phase 4: Peer Review & Extensions
+## Phase 4: Peer Review & Extensions
 
 1. Open GitHub.com, navigate to a teammate's `.md` file, and leave feedback on formatting and completeness.
 2. Enhance your Markdown file with an image, a formatted table, and a code block, then **Commit -> Pull -> Push** again.
