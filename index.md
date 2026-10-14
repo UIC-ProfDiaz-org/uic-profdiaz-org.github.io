@@ -49,8 +49,17 @@ Go to **Settings** > **Pages**:
 
 - **NetID:** [Your NetID]
 - **Major:** [Your Major]
-- **Favorite CS Topic:** [Topic]
-- **Topic I Find Challenging / Want to Learn:** [Topic]
+- **Question that I chose from the memoization exercise:** [Type the Question as listed on the Website]
+- **Link to the question article:** [Paste the URL to the question article]
+- **My solution:**
+
+\```
+
+Paste your C code here. It should contain the comments you added when trying to solve.
+
+\```
+
+
 
 ```
 
@@ -58,7 +67,7 @@ Go to **Settings** > **Pages**:
 
 
 3. **Commit Locally:**
-* Return to GitHub Desktop. Enter summary `Add profile for <netid>` at the bottom left.
+* Return to GitHub Desktop. Enter the summary `Add profile for <netid>` at the bottom left.
 * Click **Commit to main**. *(This saves a local snapshot on your machine).*
 
 
